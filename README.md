@@ -13,7 +13,10 @@ This bot is created with python and selenium. Tweets random picture and author o
 - If you want to host local you need to automate with services of your operation system.
 - Logging in only one time is enough, then program saves cookies and use cookies for opening twitter. So twitter does not block account.
 
-## Used External Libraries
+### Run
+- python main.py
+
+### Used External Libraries
 - urllib
 - requests
 - BeautifulSoup
