@@ -47,8 +47,7 @@ def run():
     file_path = os.getcwd() + '\\' + FILE_NAME
     tb.tweet_picture(author, file_path)
 
-
-#   if need to download and upload picture from local
+    
 def download_image(download_url):
     urllib.request.urlretrieve(download_url, FILE_NAME)
 
