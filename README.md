@@ -18,3 +18,4 @@ This bot is created with python and selenium. Tweets random picture and author o
 - urllib
 - requests
 - BeautifulSoup
+- selenium
