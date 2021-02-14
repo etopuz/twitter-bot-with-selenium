@@ -11,7 +11,7 @@ This bot is created with python and selenium. Tweets random picture and author o
 - You need to use account_info.txt file same as the example ->(email password) or (username password). There is only one blank line between email and password.
 - If you want to host this bot in any server. You need to change variable IS_RUNNING_ON_SERVER (in main.py) to True.
 - If you want to host local you need to automate with services of your operation system.
-- Logging in only one time is enough, then program saves cookies and use cookies for opening twitter. So twitter does not block account.
+- Logging in only one time is enough, then program saves cookies and use cookies for opening twitter account. So twitter does not block account.
 
 ### Run
 - python main.py
