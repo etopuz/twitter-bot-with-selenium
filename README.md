@@ -6,7 +6,7 @@ This bot is created with python and selenium. Tweets random picture and author o
 - [picassobot](https://twitter.com/picassobot1)
 
 ## Use
-- You need to download webdriver for browser that you are using and you need to put exe file into your projects folder.
+- You need to download webdriver for browser that you are using and you need to put exe file into your project folder.
 - Used firefox webdriver in this project, if you want to use Chrome you need to make edits.
 - You need to use account_info.txt file same as the example ->(email password) or (username password). There is only one blank line between email and password.
 - If you want to host this bot in any server. You need to change variable IS_RUNNING_ON_SERVER (in main.py) to True.
