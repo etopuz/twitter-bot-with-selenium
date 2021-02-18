@@ -1,6 +1,6 @@
 # Twitter Bot With Selenium
 This bot is created with python and selenium. Tweets random picture and author of it. I used geckodriver for firefox webdriver.
-- [Gecko Driver Repository](https://github.com/mozilla/geckodriver)
+- [geckodriver Repository](https://github.com/mozilla/geckodriver)
 
 ## Example Twitter Account
 - [picassobot](https://twitter.com/picassobot1)
